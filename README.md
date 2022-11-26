@@ -1,6 +1,6 @@
 ### RIDS: Towards Advanced Intrusion Detections via RNN Model and Programmable Switches Co-designed Approaches
 
-![avatar](./overview/rids.png)
+![avatar](./overview/rids.PNG)
 
 ## Introduction
 
@@ -28,7 +28,7 @@ python models.py
 
 ## Pipeline
 
-![avatar](./overview/pipeline.png)
+![avatar](./overview/pipeline.PNG)
 
 
 ## Programmable Switches
@@ -38,7 +38,7 @@ The P4 implementation is stored in ./rEnforcer/.
 python models.py
 ```
 
-![avatar](./overview/hardware.png)
+![avatar](./overview/hardware.PNG)
 
 
 

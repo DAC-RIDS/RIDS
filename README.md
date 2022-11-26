@@ -34,9 +34,6 @@ python models.py
 ## Programmable Switches
 
 The P4 implementation is stored in ./rEnforcer/. 
-```bash
-python models.py
-```
 
 ![avatar](./overview/hardware.PNG)
 
